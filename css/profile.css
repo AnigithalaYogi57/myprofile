@@ -1,0 +1,18 @@
+body {
+    margin-top: 30px;
+}
+
+div > img {
+    border-radius: 30px;
+}
+.col {
+    float: left;
+}
+footer {
+    text-align: center;
+}
+.sec {
+    margin-left: 10px;
+    margin-top: 30%;
+    float: right;
+}
